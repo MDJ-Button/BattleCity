@@ -1,0 +1,26 @@
+Debug_DisplayConsole true;
+Debug_DoPrint false; 
+Debug_PrintVectors true;
+
+Window_ShowFPS:"B, L, true";
+Window_FPSLimit:"60";
+Window_Size:"800, 600";
+Window_Fullscreen false;
+
+Builder_Enable false;
+
+Game_Show_Sound_Boxes false;
+
+Grid_Draw false;
+Grid_Size_X:"50";
+Grid_Size_Y:"50";
+Grid_Color:"255, 255, 255, 100";
+
+Control_Up:"W";
+Control_Down:"S";
+Control_Left:"A";
+Control_Right:"D";
+Control_Shoot:"Space";
+Control_Accelerate:"MouseRight";
+
+

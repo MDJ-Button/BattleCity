@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="include\Data">
+      <UniqueIdentifier>{7fd6a909-0a3d-49e7-8136-748ec33ebc3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="source\File">
+      <UniqueIdentifier>{34594038-6324-41fd-a582-ad3c952a8d02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\Game">
+      <UniqueIdentifier>{c0ca2516-6985-40cc-9086-234065a24251}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\Controls.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Data.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Events.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\File.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Game.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Data\Textures.h">
+      <Filter>include\Data</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\source\File\GetExtension.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\PraseLine.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\PraseLine_Bool.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\PraseLine_Bool_Array.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\PraseLine_Float.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\PraseLine_Float_Array.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\PraseLine_Int.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\PraseLine_Int_Array.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\PraseLine_Str_Array.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\Read.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\Read_Config.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\Store_Data.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\File\Vector_Data_Exists.cpp">
+      <Filter>source\File</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\AI.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Collision_Detection.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Collision_Detection_MapObj_Projectile.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Collision_Detection_Obj_MapObj.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Collision_Detection_Obj_Obj.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Collision_Detection_Obj_Projectile.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Create_FX.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Create_Projectile.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Do.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Grid_Set.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\If.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Load.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Loop.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Map_Object_Set.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\New_Map_Object.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\New_Object.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Object_Set.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Play_Fx.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Play_SoundFx.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Play_SoundIdle.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Play_SoundMove.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Player.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Print.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\PrintOnce.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\PrintVector.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Read_Game_Data.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Reference.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Remove_Obj_From_Map.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Remove_Obj_From_Vector.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Run.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Set_Game_Data.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Set_Starting_Direction.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\SetFPS.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Sound_Set.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\SoundFx_Set.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Text_Set.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Update_Event.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Update_ObjectsPositions.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Update_Textures.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Update_Window.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Game\Window_ShowFPS_Set.cpp">
+      <Filter>source\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,3 +1,3 @@
 # BattleCity
 
-A practice project, didn't finish it.
+A practice project to try and remake Batlle City in CPP and SFML.

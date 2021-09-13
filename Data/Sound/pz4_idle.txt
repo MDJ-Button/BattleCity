@@ -1,0 +1,8 @@
+#pz4_idle
+@Name:"pz4_idle";
+@Path:"Data\\Sound\\data\\pz4_idle.wav";
+@Start_Time:"0";
+@End_Time:"19.0";
+@Sound_Radius:"80";
+
+#End_Time not used at this moment, time values might be removed completely in the future.

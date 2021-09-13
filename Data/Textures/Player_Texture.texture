@@ -1,0 +1,29 @@
+@Name:"Player_Texture";
+@Path:"Data\\Textures\\Player_Texture\\tank.png";
+
+#To only show a part of the texture at a time
+
+@TextureRect_L:"1";
+@TextureRect_T:"1";
+@TextureRect_W:"13";
+@TextureRect_H:"13";
+
+#Sprite Rules
+
+#Animation_Move_Direction:"T_L, Row, Reset, Add, Restart";
+#T_L = Top or Left, the sprite starts top or left and moves so.
+#Row = Depending on which direction the sprite moves you can implement rows to the spritesheet. 
+#Reset = Once T_L reaches this value it will return true.
+#Add = If T_L returns false TextureRect_L or TextureRect_T will move by so much.
+#Restart = If T_L reaches the Reset value then the game will reset the sprite starting it over.
+
+#Code
+#if(T_L == "L"/"T")
+#TextureRect_L/TextureRect_T = Row;
+#if(T_L >= Reset) T_L = Restart;
+#else T_L += Add;
+
+@Animation_Move_Up:"L, 1, 14, 14, 1, 13, 13, 1.0";
+@Animation_Move_Down:"L, 29, 14, 14, 1, 13, 13, 1.0";
+@Animation_Move_Left:"L, 15, 14, 14, 1, 13, 13, 1.0";
+@Animation_Move_Right:"L, 43, 14, 14, 1, 13, 13, 1.0";

@@ -1,0 +1,8 @@
+@Name:"Enemy";
+@Texture:"Enemy_Texture";
+@DeathFx:"Explosion_Fx";
+@ScaleX:"3";
+@ScaleY:"3";
+@MovementSpeed:"1";
+@SoundIdle:"idle";
+@SoundMove:"move";

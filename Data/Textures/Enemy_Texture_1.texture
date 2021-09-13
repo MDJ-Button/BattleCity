@@ -1,0 +1,19 @@
+@Name:"Enemy_Texture_1";
+@Path:"Data\\Textures\\Enemy_Texture_1\\tank.png";
+
+@TextureRect_L:"1";
+@TextureRect_T:"1";
+@TextureRect_W:"13";
+@TextureRect_H:"15";
+
+#Animation_Move_Direction:"T_L, Row, Reset, Add, Restart, Width, Height";
+#T_L = Top or Left, the sprite starts top or left and moves so.
+#Row = Depending on which direction the sprite moves you can implement rows to the spritesheet. 
+#Reset = Once T_L reaches this value it will return true.
+#Add = If T_L returns false TextureRect_L or TextureRect_T will move by so much.
+#Restart = If T_L reaches the Reset value then the game will reset the sprite starting it over.
+
+@Animation_Move_Up:"L, 1, 17, 14, 3, 13, 15, 1.0";
+@Animation_Move_Down:"L, 31, 17, 14, 3, 13, 15, 1.0";
+@Animation_Move_Left:"L, 17, 17, 16, 1, 15, 13, 1.0";
+@Animation_Move_Right:"L, 47, 17, 16, 1, 15, 13, 1.0";

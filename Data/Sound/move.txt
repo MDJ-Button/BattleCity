@@ -1,0 +1,8 @@
+#move
+@Name:"move";
+@Path:"Data\\Sound\\data\\move.wav";
+@Start_Time:"0";
+@End_Time:"0.30";
+@Sound_Radius:"100";
+
+#End_Time not used at this moment, time values might be removed completely in the future.

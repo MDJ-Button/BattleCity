@@ -1,0 +1,17 @@
+#Grid_Numbers
+@Name:"Grid_Numbers";
+@Font:"Data\\Fonts\\Fonts\\AGENCYR.TTF";
+@Message:"Grid_Numbers";
+@CharacterSize:"24";
+@TextColor:"255, 255, 255, 255";
+@Bold:"true";
+@Italic:"false";
+@StrikeThrough:"false";
+@Underlined:"false";
+@ScaleX:"1";
+@ScaleY:"1";
+
+#Position is not used if the @Name is Grid_Numbers
+#The position is set through the config file
+@Position_X:"0";
+@Position_Y:"0";

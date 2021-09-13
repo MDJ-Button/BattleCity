@@ -1,0 +1,4 @@
+@Name:"Brick_Object_1";
+@Texture:"Brick_Textures";
+@ScaleX:"3";
+@ScaleY:"3";

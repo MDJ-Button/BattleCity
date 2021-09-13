@@ -1,0 +1,9 @@
+@Name:"Enemy_1";
+@Texture:"Enemy_Texture_1";
+@ScaleX:"3";
+@ScaleY:"3";
+@MovementSpeed:"1";
+
+#Sounds
+@SoundIdle:"idle";
+@SoundMove:"move";

@@ -1,0 +1,8 @@
+#block_hit
+@Name:"block_hit";
+@Path:"Data\\Sound\\data\\block_hit.wav";
+@Start_Time:"0";
+@End_Time:"1.10";
+@Sound_Radius:"100";
+
+#End_Time not used at this moment, time values might be removed completely in the future.

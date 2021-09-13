@@ -1,0 +1,10 @@
+@Name:"Player";
+#@Texture:"Player_Texture";
+@Texture:"pz4_test";
+@ScaleX:"1";
+@ScaleY:"1";
+@MovementSpeed:"0.5";
+
+#Sounds
+@SoundIdle:"tank_idle";
+@SoundMove:"tank_move";

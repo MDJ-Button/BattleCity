@@ -1,0 +1,13 @@
+@Name:"Agencyr_Text";
+@Font:"Data\\Fonts\\Fonts\\AGENCYR.TTF";
+@Message:"Custom";
+@CharacterSize:"24";
+@TextColor:"128, 128, 128, 255";
+@Bold:"true";
+@Italic:"false";
+@StrikeThrough:"false";
+@Underlined:"false";
+@ScaleX:"1";
+@ScaleY:"1";
+@Position_X:"100";
+@Position_Y:"50";

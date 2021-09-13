@@ -1,0 +1,5 @@
+@Name:"Bullet";
+@Texture:"Bullet_Texture";
+@ScaleX:"1";
+@ScaleY:"1";
+@MovementSpeed:"3.0";

@@ -1,0 +1,10 @@
+@Name:"Enemy";
+#@Texture:"Enemy_Texture";
+@Texture:"pz2_test";
+@ScaleX:"1";
+@ScaleY:"1";
+@MovementSpeed:"1";
+
+#Sounds
+@SoundIdle:"pz2_idle";
+@SoundMove:"pz2";

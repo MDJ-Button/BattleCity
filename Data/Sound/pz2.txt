@@ -1,0 +1,7 @@
+@Name:"pz2";
+@Path:"Data\\Sound\\data\\pz2.wav";
+@Start_Time:"0";
+@End_Time:"8.0";
+@Sound_Radius:"75";
+
+#End_Time not used at this moment, time values might be removed completely in the future.

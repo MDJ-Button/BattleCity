@@ -1,0 +1,63 @@
+#Metadata
+
+#------------------------------------------------------------------------------------------------------
+#Textures
+@Textures Player_Texture:"Data\\Textures\\Player_Texture.texture";
+@Textures Enemy_Texture:"Data\\Textures\\Enemy_Texture.texture";
+@Textures Enemy_Texture_1:"Data\\Textures\\Enemy_Texture_1.texture";
+@Textures pz2_test:"Data\\Textures\\pz2_test.texture";
+@Textures pz4_test:"Data\\Textures\\pz4_test.texture";
+
+#Projectile Texture
+@Textures Bullet_Texture:"Data\\Textures\\Bullet_Texture.texture";
+#------------------------------------------------------------------------------------------------------
+#mTextures
+@Textures Brick_Textures:"Data\\Textures\\Brick_Textures.mtexture";
+@Textures Concrete_Textures:"Data\\Textures\\Concrete_Textures.mtexture";
+@Textures Blue_Water_Textures:"Data\\Textures\\Blue_Water_Textures.mtexture";
+@Textures Road_Textures:"Data\\Textures\\Road_Textures.mtexture";
+@Textures Bush_Textures:"Data\\Textures\\Bush_Textures.mtexture";
+#------------------------------------------------------------------------------------------------------
+#Objects
+@Objects Player_Object:"Data\\Objects\\Player.object";
+@Objects Enemy_Object:"Data\\Objects\\Enemy.object";
+@Objects Enemy_Object_1:"Data\\Objects\\Enemy_1.object";
+@Objects Enemy_Object_2:"Data\\Objects\\Enemy_2.object";
+#------------------------------------------------------------------------------------------------------
+#Projectile
+@Projectile Bullet:"Data\\Projectile\\Bullet.txt";
+#------------------------------------------------------------------------------------------------------
+#Map_Objects
+@Map_Objects Brick_Object:"Data\\Map Objects\\Brick.mapobject";
+@Map_Objects Concrete_Object:"Data\\Map Objects\\Concrete.mapobject";
+@Map_Objects Blue_Water:"Data\\Map Objects\\Blue_Water.mapobject";
+@Map_Objects Road_Object:"Data\\Map Objects\\Road.mapobject";
+@Map_Objects Bush_Object:"Data\\Map Objects\\Bush.mapobject";
+#------------------------------------------------------------------------------------------------------
+#Fx
+@Fx Explosion_Fx:"Data\\Fx\\Explosion_Fx.txt";
+@Fx Explosion_Fx_half:"Data\\Fx\\Explosion_Fx_half.txt";
+#------------------------------------------------------------------------------------------------------
+#Texts
+@Text Grid_Numbers:"Data\\Fonts\\Grid_Numbers.txt";
+@Text FPS_Counter:"Data\\Fonts\\FPS_Counter.txt";
+@Text Waypoint_Mark:"Data\\Fonts\\Waypoint_Mark.txt";
+@Text Waypoint_Mark_1:"Data\\Fonts\\Waypoint_Mark_1.txt";
+@Text Agencyr_Text:"Data\\Fonts\\Agencyr_Text.txt";
+#------------------------------------------------------------------------------------------------------
+#Music
+@Music Mame1:"Data\\Music\\test1.txt";
+#------------------------------------------------------------------------------------------------------
+#Sounds
+@Sounds nosound:"Data\\Sound\\nosound.txt";
+@Sounds idle:"Data\\Sound\\idle.txt";
+@Sounds move:"Data\\Sound\\move.txt";
+@Sounds pz4_idle:"Data\\Sound\\pz4_idle.txt";
+@Sounds pz4:"Data\\Sound\\pz4.txt";
+@Sounds pz2_idle:"Data\\Sound\\pz2_idle.txt";
+@Sounds pz2:"Data\\Sound\\pz2.txt";
+@Sounds explosion_fx:"Data\\Sound\\explosion_fx.txt";
+@Sounds block_hit:"Data\\Sound\\block_hit.txt";
+#------------------------------------------------------------------------------------------------------
+#Levels
+@Level Level_1:"Data\\Levels\\Level_1.txt";

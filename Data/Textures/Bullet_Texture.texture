@@ -1,0 +1,12 @@
+@Name:"Bullet_Texture";
+@Path:"Data\\Textures\\Bullet_Texture\\bullet.png";
+
+@TextureRect_L:"1";
+@TextureRect_T:"2";
+@TextureRect_W:"3";
+@TextureRect_H:"4";
+
+@Animation_Move_Up:"L, 1, 13, 4, 1, 3, 4, 0.1";
+@Animation_Move_Down:"L, 6, 13, 4, 1, 3, 4, 0.1";
+@Animation_Move_Left:"L, 11, 13, 5, 1, 4, 3, 0.1";
+@Animation_Move_Right:"L, 15, 13, 5, 1, 4, 3, 0.1";

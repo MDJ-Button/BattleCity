@@ -1,0 +1,12 @@
+@Name:"Explosion_Fx";
+@Path:"Data\\Fx\\Explosion_Fx.png";
+@ScaleX:"3";
+@ScaleY:"3";
+@Fx:"0, 1, 1, 11, 11, 0, 0.10";
+@Fx:"1, 13, 1, 15, 15, 0.10, 0.20";
+@Fx:"2, 29, 1, 16, 16, 0.20, 0.30";
+@Fx:"3, 46, 1, 30, 30, 0.30, 0.40";
+@Fx:"4, 77, 1, 33, 32, 0.40, 0.50";
+
+#Sounds
+@SoundFx:"explosion_fx";

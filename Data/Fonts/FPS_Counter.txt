@@ -1,0 +1,17 @@
+#FPS_Counter
+@Name:"FPS_Counter";
+@Font:"Data\\Fonts\\Fonts\\AGENCYR.TTF";
+@Message:"FPS_COUNTER";
+@CharacterSize:"24";
+@TextColor:"255, 255, 255, 255";
+@Bold:"true";
+@Italic:"false";
+@StrikeThrough:"false";
+@Underlined:"false";
+@ScaleX:"1";
+@ScaleY:"1";
+
+#Position is not used if the @Name is FPS_Counter
+#The position is set through the config file
+@Position_X:"0";
+@Position_Y:"0";

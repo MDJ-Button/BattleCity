@@ -1,0 +1,7 @@
+@Name:"Concrete_Textures";
+@Path:"Data\\Textures\\Concrete_Textures\\concrete.png";
+@TextureRect_L:"1";
+@TextureRect_T:"1";
+@TextureRect_W:"16";
+@TextureRect_H:"16";
+@Animation:"L, 1, 0, 0, 0, 16, 16, 1.0, false";

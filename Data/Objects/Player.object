@@ -1,0 +1,8 @@
+@Name:"Player";
+@Texture:"Player_Texture";
+@DeathFx:"Explosion_Fx";
+@ScaleX:"3";
+@ScaleY:"3";
+@MovementSpeed:"2.0";
+@SoundIdle:"idle";
+@SoundMove:"move";

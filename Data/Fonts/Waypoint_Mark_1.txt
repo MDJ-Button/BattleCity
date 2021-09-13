@@ -1,0 +1,14 @@
+#Waypoint_Mark_1
+@Name:"Waypoint_Mark_1";
+@Font:"Data\\Fonts\\Fonts\\AGENCYR.TTF";
+@Message:"W";
+@CharacterSize:"24";
+@TextColor:"0, 128, 0, 255";
+@Bold:"true";
+@Italic:"false";
+@StrikeThrough:"false";
+@Underlined:"false";
+@ScaleX:"1";
+@ScaleY:"1";
+@Position_X:"400";
+@Position_Y:"300";

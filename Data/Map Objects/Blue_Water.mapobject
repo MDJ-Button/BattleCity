@@ -1,0 +1,13 @@
+@Name:"Blue_Water";
+@Texture:"Blue_Water_Textures";
+@DeathFx:"Explosion_Fx_half";
+@SoundIdle:"nosound";
+@ScaleX:"3";
+@ScaleY:"3";
+@DPH:"0";
+@Impassable:"true";
+@CanBeHit:"false";
+@DrawInFront:"false";
+@SpeedModifier:"0.0";
+@Type:"Water";
+

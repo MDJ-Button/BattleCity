@@ -1,0 +1,12 @@
+@Name:"Bush_Object";
+@Texture:"Bush_Textures";
+@DeathFx:"Explosion_Fx_half";
+@SoundIdle:"nosound";
+@ScaleX:"3";
+@ScaleY:"3";
+@DPH:"0";
+@Impassable:"false";
+@CanBeHit:"false";
+@DrawInFront:"true";
+@SpeedModifier:"-1";
+@Type:"Ground";

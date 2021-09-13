@@ -1,0 +1,8 @@
+#explosion_fx
+@Name:"explosion_fx";
+@Path:"Data\\Sound\\data\\explosion_fx.wav";
+@Start_Time:"0.14";
+@End_Time:"0.34";
+@Sound_Radius:"300";
+
+#End_Time not used at this moment, time values might be removed completely in the future.

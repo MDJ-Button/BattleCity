@@ -1,0 +1,7 @@
+@Name:"Blue_Water_Textures";
+@Path:"Data\\Textures\\Blue_Water_Textures\\water.png";
+@TextureRect_L:"1";
+@TextureRect_T:"1";
+@TextureRect_W:"16";
+@TextureRect_H:"16";
+@Animation:"L, 1, 51, 17, 1, 16, 16, 1.0, true";

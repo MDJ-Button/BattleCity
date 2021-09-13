@@ -1,0 +1,8 @@
+#pz4
+@Name:"pz4";
+@Path:"Data\\Sound\\data\\pz4.wav";
+@Start_Time:"0";
+@End_Time:"14.0";
+@Sound_Radius:"80";
+
+#End_Time not used at this moment, time values might be removed completely in the future.

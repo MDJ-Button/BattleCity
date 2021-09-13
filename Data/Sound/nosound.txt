@@ -1,0 +1,7 @@
+@Name:"nosound";
+@Path:"Data\\Sound\\data\\Silence.wav";
+@Start_Time:"0";
+@End_Time:"0.4";
+@Sound_Radius:"0";
+
+#End_Time not used at this moment, time values might be removed completely in the future.
